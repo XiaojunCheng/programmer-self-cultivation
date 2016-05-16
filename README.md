@@ -1,2 +1,2 @@
-# programmer-self-cultivation
-程序员自我修养
+# 程序员的自我修养
+
