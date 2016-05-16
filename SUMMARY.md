@@ -1,10 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part I](part1/readmemd.md)
-   * [Writing is nice](part1/writing.md)
-   * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/readmemd.md)
-   * [We love feedback](part2/feedback_please.md)
-   * [Better tools for authors](part2/better_tools.md)
+* [1. 技能树](01/README.md)
+* [2. 常用软件](02/README.md)
+   * [Mac下高效工具](02/productivity_tools_in_mac.md)
+   * [开发工具](02/develop_tools.md)
 
