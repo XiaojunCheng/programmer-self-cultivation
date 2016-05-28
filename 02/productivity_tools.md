@@ -15,4 +15,4 @@
 ## 参考资料
 
 1. [卓有成效的程序员](https://book.douban.com/subject/3558788/)
-2. 
+2. [Mac上生产率博客](http://pragmactic-osxer.blogspot.com/) `2011年后就没更新了`
