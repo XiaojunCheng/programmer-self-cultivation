@@ -23,4 +23,19 @@
 2. [Mac上生产率博客](http://pragmactic-osxer.blogspot.com/) `2011年后就没更新了`
 3. [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 4. [少数派](http://sspai.com/)
-5. [关于time machine不可不知的技巧](http://www.ixirong.com/2015/12/13/how-to-use-time-machine/)
+5. 
+
+
+## 预备知识
+
+1. Mac OS X发展历程
+2. 休眠模式
+  - [Mac OS X 休眠模式杂谈](http://www.waerfa.com/mac-osx-sleep-mode-talking-show)
+3. time machine
+  - [关于time machine不可不知的技巧](http://www.ixirong.com/2015/12/13/how-to-use-time-machine/)
+4. 截图
+  - [如何在 Mac 上截图的技巧与工具汇总](http://www.waerfa.com/how-to-take-screenshots-on-your-mac-tips-tools)
+  - [13 招教你用好 Mac 的预览 app](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=207749996&idx=2&sn=d7c63c0a4c9b50416fc40fd939f4570f&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+5. 基本快捷键
+  - [http://www.waerfa.com/mac-osx-sleep-mode-talking-show](https://support.apple.com/zh-cn/HT201236)
+6. 
