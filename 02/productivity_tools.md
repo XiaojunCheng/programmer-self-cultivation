@@ -22,3 +22,4 @@
 3. [高效 MacBook 工作环境配置@博客在线](http://blog.jobbole.com/89013/)
 2. [Mac上生产率博客](http://pragmactic-osxer.blogspot.com/) `2011年后就没更新了`
 3. [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
+4. [少数派](http://sspai.com/)
